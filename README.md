@@ -1,28 +1,26 @@
 <div align="center">
 
-<!-- ╔══════════════════════════════════════════════════════╗ -->
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,20:0a0a2e,50:A855F7,80:00F7FF,100:000000&height=250&section=header&text=RISHVIN%20REDDY&fontSize=75&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Engineer%20%7C%20Builder%20%7C%20System%20Thinker%20%7C%20CSE%20'28&descSize=20&descAlignY=62&descColor=00F7FF&stroke=00F7FF" width="100%"/>
 
-<!--            QUANTUM ENTRY — CAPSULE RENDER              -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
-<!-- ╚══════════════════════════════════════════════════════╝ -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=800&size=22&duration=2500&pause=800&color=00F7FF;A855F7;FF00FF;00F7FF;A855F7;FF00FF&center=true&vCenter=true&repeat=true&width=960&lines=⬡+Architecting+Intelligent+Digital+Ecosystems;⬡+Full+Stack+%7C+IoT+%7C+Cybersecurity+%7C+AI+Engineering;⬡+From+an+idea+to+a+product+that+scales;⬡+Building+Systems+That+Think%2C+Act+%26+Defend;⬡+CSE-BIC+%40+Woxsen+University+→+Class+of+2028;⬡+17%2B+Public+Repos+%7C+20%2B+Workshops+Facilitated" alt="Typing SVG"/>
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:050510,30:0a0a2e,65:00F7FF,100:050510&height=230&section=header&text=RISHVIN%20REDDY&fontSize=68&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Engineer%20%7C%20Builder%20%7C%20System%20Thinker%20%7C%20CSE%20'28&descSize=19&descAlignY=62&descColor=00F7FF" width="100%"/>
+<br/><br/>
 
-<!-- ════════════ ANIMATED TAGLINES ════════════ -->
+<img src="https://komarev.com/ghpvc/?username=RishvinReddy&label=PROFILE+VIEWS&color=00F7FF&style=for-the-badge&labelColor=050510&logo=github&logoColor=00F7FF"/>
+<img src="https://img.shields.io/github/stars/RishvinReddy?label=TOTAL+STARS&style=for-the-badge&color=A855F7&labelColor=050510&logo=apachespark&logoColor=A855F7"/>
+<img src="https://img.shields.io/badge/REPOS-17%2B-FF00FF?style=for-the-badge&labelColor=050510&logo=git&logoColor=FF00FF"/>
+<img src="https://img.shields.io/badge/WORKSHOPS-20%2B-00F7FF?style=for-the-badge&labelColor=050510&logo=codeforces&logoColor=00F7FF"/>
+<img src="https://img.shields.io/badge/STATUS-ACTIVELY%20BUILDING-A855F7?style=for-the-badge&labelColor=050510&logo=statuspage&logoColor=A855F7"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=21&duration=2500&pause=800&color=00F7FF&center=true&vCenter=true&repeat=true&width=960&lines=⬡+Architecting+Intelligent+Digital+Ecosystems;⬡+Full+Stack+%7C+IoT+%7C+Cybersecurity+%7C+AI+Engineering;⬡+From+an+idea+to+a+product+that+scales;⬡+Building+Systems+That+Think%2C+Act+%26+Defend;⬡+CSE-BIC+%40+Woxsen+University+→+Class+of+2028;⬡+17%2B+Public+Repos+%7C+20%2B+Workshops+Facilitated" alt="Typing SVG"/>
-
-<br/>
-
-<!-- ════════ STAT BADGES ════════ -->
-
-<img src="https://komarev.com/ghpvc/?username=RishvinReddy&label=PROFILE+VIEWS&color=00F7FF&style=flat-square&labelColor=050510"/>
-<img src="https://img.shields.io/github/stars/RishvinReddy?label=TOTAL+STARS&style=flat-square&color=FFB800&labelColor=050510"/>
-<img src="https://img.shields.io/badge/REPOS-17%2B-00F7FF?style=flat-square&labelColor=050510"/>
-<img src="https://img.shields.io/badge/WORKSHOPS-20%2B-00C86F?style=flat-square&labelColor=050510"/>
-<img src="https://img.shields.io/badge/STATUS-ACTIVELY%20BUILDING-00F7FF?style=flat-square&labelColor=050510&logo=statuspage&logoColor=00F7FF"/>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
 </div>
+
+
+
+
 
 -----
 
