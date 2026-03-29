@@ -1,24 +1,54 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,20:0a0a2e,50:A855F7,80:00F7FF,100:000000&height=250&section=header&text=RISHVIN%20REDDY&fontSize=75&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Engineer%20%7C%20Builder%20%7C%20System%20Thinker%20%7C%20CSE%20'28&descSize=20&descAlignY=62&descColor=00F7FF&stroke=00F7FF" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:050510,50:00F7FF,100:050510&height=280&section=header&text=EROLLA%20RISHVIN%20REDDY&fontSize=72&fontColor=ffffff&animation=scaleIn&fontAlignY=35&desc=System%20Thinker%20%7C%20Automotive%20IoT%20%7C%20Cybersecurity&descSize=22&descAlignY=60&descColor=A855F7&stroke=A855F7" width="100%"/>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=800&size=22&duration=2500&pause=800&color=00F7FF;A855F7;FF00FF;00F7FF;A855F7;FF00FF&center=true&vCenter=true&repeat=true&width=960&lines=⬡+Architecting+Intelligent+Digital+Ecosystems;⬡+Full+Stack+%7C+IoT+%7C+Cybersecurity+%7C+AI+Engineering;⬡+From+an+idea+to+a+product+that+scales;⬡+Building+Systems+That+Think%2C+Act+%26+Defend;⬡+CSE-BIC+%40+Woxsen+University+→+Class+of+2028;⬡+17%2B+Public+Repos+%7C+20%2B+Workshops+Facilitated" alt="Typing SVG"/>
+<br>
 
-<br/><br/>
+<table align="center" border="0" cellpadding="0" cellspacing="0" width="100%" style="background-color: transparent;">
+  <tr>
+    <td width="50%" align="center" valign="top">
+       <h3 align="center"><font color="#00F7FF">⬡ LIVE TELEMETRY ⬡</font></h3>
+       <img src="https://github-readme-stats.vercel.app/api?username=RishvinReddy&show_icons=true&theme=tokyonight&hide_border=true&bg_color=050510&title_color=00F7FF&icon_color=A855F7&text_color=ffffff&custom_title=System%20Metrics" width="95%" />
+    </td>
+    <td width="50%" align="center" valign="top">
+       <h3 align="center"><font color="#A855F7">⬡ NEURAL NETWORK ⬡</font></h3>
+       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RishvinReddy&layout=donut&theme=tokyonight&hide_border=true&bg_color=050510&title_color=A855F7&text_color=ffffff&icon_color=00F7FF" width="95%" />
+    </td>
+  </tr>
+</table>
 
-<img src="https://komarev.com/ghpvc/?username=RishvinReddy&label=PROFILE+VIEWS&color=00F7FF&style=for-the-badge&labelColor=050510&logo=github&logoColor=00F7FF"/>
-<img src="https://img.shields.io/github/stars/RishvinReddy?label=TOTAL+STARS&style=for-the-badge&color=A855F7&labelColor=050510&logo=apachespark&logoColor=A855F7"/>
-<img src="https://img.shields.io/badge/REPOS-17%2B-FF00FF?style=for-the-badge&labelColor=050510&logo=git&logoColor=FF00FF"/>
-<img src="https://img.shields.io/badge/WORKSHOPS-20%2B-00F7FF?style=for-the-badge&labelColor=050510&logo=codeforces&logoColor=00F7FF"/>
-<img src="https://img.shields.io/badge/STATUS-ACTIVELY%20BUILDING-A855F7?style=for-the-badge&labelColor=050510&logo=statuspage&logoColor=A855F7"/>
+<br><br>
+
+<div align="left" style="background-color: #050510; padding: 20px; border-radius: 10px; border: 1px solid #00F7FF; font-family: 'Fira Code', monospace;">
+  <code><font color="#A855F7">root@woxsen-mainframe:~#</font> <font color="#ffffff">./initialize_portfolio.sh</font></code><br><br>
+  <code><font color="#00C86F">[ OK ]</font> <font color="#ffffff">Loading Automotive Telemetry & Engine Diagnostics...</font></code><br>
+  <code><font color="#00C86F">[ OK ]</font> <font color="#ffffff">Booting Smart Waste & Irrigation Protocols...</font></code><br>
+  <code><font color="#00C86F">[ OK ]</font> <font color="#ffffff">Compiling Text Search Engine & Pattern Matching Algorithms...</font></code><br>
+  <code><font color="#00C86F">[ OK ]</font> <font color="#ffffff">Establishing Secure Connection to Agro Hub Node...</font></code><br>
+  
+  <br>
+  <details>
+    <summary style="cursor: pointer;"><b><font color="#00F7FF">>> CLICK TO EXPAND: ACTIVE SUBSYSTEMS <<</font></b></summary>
+    <br>
+    <code><font color="#FF00FF">>> </font><font color="#ffffff">Biometric Voting System: ONLINE</font></code><br>
+    <code><font color="#FF00FF">>> </font><font color="#ffffff">Disaster Management Drone Control: STANDBY</font></code><br>
+    <code><font color="#FF00FF">>> </font><font color="#ffffff">Network Sec & Cryptography Modules: ACTIVE</font></code><br>
+  </details>
+</div>
+
+<br><br>
+
+<h2 align="center"><font color="#A855F7">⬡ TEMPORAL ACTIVITY MATRIX ⬡</font></h2>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RishvinReddy/RishvinReddy/output/github-contribution-grid-snake-dark.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/RishvinReddy/RishvinReddy/output/github-contribution-grid-snake.svg" width="100%">
+</picture>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
 </div>
-
-
 
 
 
