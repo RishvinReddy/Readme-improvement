@@ -4,7 +4,7 @@
 
 <br/>
 
-<h1 style="font-size:48px; margin-bottom:10px;">
+<h1 style="font-size:36px; margin-bottom:10px;">
 EROLLA RISHVIN REDDY
 </h1>
 
@@ -16,6 +16,30 @@ IoT • Backend • Cybersecurity Developer
 
 
 
+
+<div align="center" style="font-family: 'Times New Roman', serif;">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,30:0c1527,65:1d4ed8,100:38bdf8&height=320&section=header&text=EROLLA%20RISHVIN%20REDDY&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=IoT%20%7C%20Backend%20%7C%20Cybersecurity%20Developer&descAlignY=60&descSize=20&descColor=b6c2d9" width="100%" />
+
+<br/>
+
+<h1 style="font-size:36px; margin-bottom:6px; font-weight:600;">
+EROLLA RISHVIN REDDY
+</h1>
+
+<p style="font-size:18px; color:#94a3b8; margin-top:0;">
+IoT • Backend • Cybersecurity Developer
+</p>
+
+<br/>
+
+<p>
+  <img src="https://img.shields.io/badge/IoT-1d4ed8?style=flat-square&logo=internetofthings&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Backend-0ea5e9?style=flat-square&logo=server&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Cybersecurity-020617?style=flat-square&logo=shield&logoColor=white"/>
+</p>
+
+</div>
 
 
 
