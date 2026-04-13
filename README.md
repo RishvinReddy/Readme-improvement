@@ -1,5 +1,136 @@
 <div align="center">
 
+<!-- 🌌 BACKGROUND + DEPTH LAYER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,15:020617,30:0f172a,45:1e293b,60:2563eb,75:38bdf8,90:22d3ee,100:67e8f9&height=380&section=header&text=EROLLA%20RISHVIN%20REDDY&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=⚡%20Architecting%20Intelligent%20Systems%20for%20the%20Future&descAlignY=58&descSize=22&descColor=e2e8f0" width="100%" />
+
+<!-- ⚡ NEON DIVIDER -->
+<img src="https://user-images.githubusercontent.com/74038190/212897782-9658153a-8b58-4b9a-9c4b-6d9c4e4a0d1a.gif" width="100%" />
+
+<!-- 🧠 DYNAMIC IDENTITY SYSTEM -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=2200&pause=600&color=22D3EE&center=true&vCenter=true&width=1000&lines=🚀+Full-Stack+AI+Systems+Engineer;🛡️+Zero+Trust+Cybersecurity+Builder;🌐+IoT+%2B+Edge+Computing+Architect;⚡+Production-Ready+System+Designer;📊+Data+Driven+Decision+Systems;🔥+From+Idea+→+Architecture+→+Deployment" />
+
+<br/>
+
+<!-- 🔗 ELITE BADGES -->
+<p>
+  <img src="https://img.shields.io/badge/Portfolio-Live-0ea5e9?style=for-the-badge&logo=vercel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AI%20Systems-Builder-020617?style=for-the-badge&logo=openai&logoColor=22d3ee"/>
+  <img src="https://img.shields.io/badge/Cybersecurity-Zero%20Trust-0f172a?style=for-the-badge&logo=hackaday&logoColor=38bdf8"/>
+  <img src="https://img.shields.io/badge/IoT-Edge%20Architect-1e293b?style=for-the-badge&logo=arduino&logoColor=22d3ee"/>
+</p>
+
+<!-- 👁️ LIVE SIGNALS -->
+<img src="https://komarev.com/ghpvc/?username=rishvinreddy&label=PROFILE%20VIEWS&color=0ea5e9&style=for-the-badge" />
+
+<br/>
+
+<!-- ⚡ ACTIVITY GRAPH (THIS IS BIG UPGRADE) -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=rishvinreddy&theme=tokyo-night&hide_border=true&area=true" width="95%"/>
+
+<br/>
+
+<!-- 🏆 TROPHIES -->
+<img src="https://github-profile-trophy.vercel.app/?username=rishvinreddy&theme=algolia&no-frame=true&row=1&margin-w=20&margin-h=20"/>
+
+<br/>
+
+<!-- 📊 FULL DASHBOARD -->
+<img src="https://github-readme-stats.vercel.app/api?username=rishvinreddy&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15" height="180"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=rishvinreddy&theme=tokyonight&hide_border=true&border_radius=15" height="180"/>
+
+<br/>
+
+<!-- 💻 LANGUAGE INTELLIGENCE -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rishvinreddy&layout=compact&theme=tokyonight&hide_border=true&border_radius=15" height="160"/>
+
+<!-- 🔥 FOOTER WAVE -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:67e8f9,50:38bdf8,100:020617&height=120&section=footer"/>
+
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div align="center">
+
+<!-- 🔥 CINEMATIC HEADER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,10:020617,25:0f172a,40:1e293b,60:2563eb,80:38bdf8,100:22d3ee&height=360&section=header&text=EROLLA%20RISHVIN%20REDDY&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=⚡%20Building%20Future-Grade%20Systems%20%7C%20IoT%20%7C%20AI%20%7C%20Cybersecurity&descAlignY=58&descSize=20&descColor=e2e8f0" width="100%" />
+
+<!-- 🚀 DYNAMIC ROLE SYSTEM -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=26&duration=2500&pause=700&color=38BDF8&center=true&vCenter=true&width=900&lines=🚀+Full-Stack+AI+Engineer;🛡️+Cybersecurity+Builder+(Zero+Trust);🌐+IoT+Systems+Architect;⚡+Turning+Ideas+into+Production+Systems;📈+Building+Scalable+Tech+Products" />
+
+<br/>
+
+<!-- 🔗 SOCIAL + BRAND BADGES -->
+<p>
+  <img src="https://img.shields.io/badge/Portfolio-0ea5e9?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AI%20Engineer-1e293b?style=for-the-badge&logo=openai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Cybersecurity-0f172a?style=for-the-badge&logo=hackaday&logoColor=38bdf8"/>
+</p>
+
+<!-- 🧠 PROFILE VIEWS + FOLLOWERS -->
+<img src="https://komarev.com/ghpvc/?username=rishvinreddy&label=Profile%20Views&color=0ea5e9&style=for-the-badge" />
+
+<br/>
+
+<!-- 🏆 TROPHIES -->
+<img src="https://github-profile-trophy.vercel.app/?username=rishvinreddy&theme=algolia&no-frame=true&margin-w=15&margin-h=15&row=1"/>
+
+<br/>
+
+<!-- 📊 STATS GRID -->
+<img src="https://github-readme-stats.vercel.app/api?username=rishvinreddy&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12" height="170"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=rishvinreddy&theme=tokyonight&hide_border=true&border_radius=12" height="170"/>
+
+<br/>
+
+<!-- 💻 TOP LANGUAGES -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rishvinreddy&layout=compact&theme=tokyonight&hide_border=true&border_radius=12" height="150"/>
+
+</div>
+
+
+
+
+
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,20:0f172a,40:1e293b,60:2563eb,80:38bdf8,100:22d3ee&height=320&section=header&text=EROLLA%20RISHVIN%20REDDY&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=🚀%20IoT%20Engineer%20%7C%20Backend%20Architect%20%7C%20Cybersecurity%20Specialist&descAlignY=60&descSize=20&descColor=cbd5f5" width="100%" />
+
+<br/>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=24&duration=3000&pause=800&color=38BDF8&center=true&vCenter=true&width=800&lines=Building+Future-Ready+Systems;IoT+%2B+AI+%2B+Cybersecurity;Zero+Trust+%7C+Automation+%7C+Scalable+Apps;Turning+Ideas+into+Production+Systems" />
+
+<br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=rishvinreddy&theme=algolia&no-frame=true&row=1&margin-w=15&margin-h=15" />
+
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api?username=rishvinreddy&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" height="160"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=rishvinreddy&theme=tokyonight&hide_border=true&border_radius=10" height="160"/>
+
+</div>
+
+
+
+
+
+
+
+
+<div align="center">
+
 <img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:050510,50:00F7FF,100:050510&height=280&section=header&text=EROLLA%20RISHVIN%20REDDY&fontSize=72&fontColor=ffffff&animation=scaleIn&fontAlignY=35&desc=System%20Thinker%20%7C%20Automotive%20IoT%20%7C%20Cybersecurity&descSize=22&descAlignY=60&descColor=A855F7&stroke=A855F7" width="100%"/>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
