@@ -1,5 +1,72 @@
 <div align="center">
 
+<!-- 🌌 ULTRA CINEMATIC HEADER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,10:020617,20:020617,30:0f172a,40:1e293b,55:2563eb,70:38bdf8,85:22d3ee,100:67e8f9&height=400&section=header&text=EROLLA%20RISHVIN%20REDDY&fontSize=62&fontColor=ffffff&animation=fadeIn&fontAlignY=32&desc=⚡%20Designing%20Scalable%20Intelligent%20Systems%20%7C%20AI%20%7C%20IoT%20%7C%20Cybersecurity&descAlignY=60&descSize=22&descColor=e2e8f0" width="100%" />
+
+<!-- 🔥 ANIMATED SEPARATOR -->
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
+
+<!-- ⚡ HIGH-END TYPING ENGINE -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&duration=2000&pause=500&color=22D3EE&center=true&vCenter=true&width=1100&lines=🚀+AI+%2B+Full-Stack+Systems+Engineer;🛡️+Zero+Trust+Cybersecurity+Architect;🌐+IoT+%2B+Edge+Computing+Specialist;⚡+From+Idea+→+Architecture+→+Deployment;🔥+Building+Production-Ready+Tech" />
+
+<br/>
+
+<!-- 🧠 GLASS BADGE LAYER -->
+<p>
+  <img src="https://img.shields.io/badge/Portfolio-rishvinreddy.github.io-0ea5e9?style=for-the-badge&logo=vercel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Focus-AI%20Systems-020617?style=for-the-badge&logo=openai&logoColor=22d3ee"/>
+  <img src="https://img.shields.io/badge/Security-Zero%20Trust-0f172a?style=for-the-badge&logo=hackaday&logoColor=38bdf8"/>
+  <img src="https://img.shields.io/badge/IoT-Edge%20Architecture-1e293b?style=for-the-badge&logo=arduino&logoColor=22d3ee"/>
+</p>
+
+<!-- 👁️ LIVE METRICS -->
+<img src="https://komarev.com/ghpvc/?username=rishvinreddy&label=PROFILE%20VIEWS&color=0ea5e9&style=for-the-badge" />
+
+<br/>
+
+<!-- ⚡ CONTRIBUTION HEATMAP (RARE FEATURE) -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rishvinreddy&theme=tokyonight" width="95%"/>
+
+<br/>
+
+<!-- 📊 ADVANCED DASHBOARD -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=rishvinreddy&theme=tokyonight" height="160"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rishvinreddy&theme=tokyonight" height="160"/>
+
+<br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rishvinreddy&theme=tokyonight" height="160"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rishvinreddy&theme=tokyonight&utcOffset=5.5" height="160"/>
+
+<br/>
+
+<!-- 🏆 TROPHY SYSTEM -->
+<img src="https://github-profile-trophy.vercel.app/?username=rishvinreddy&theme=algolia&no-frame=true&margin-w=20&margin-h=20&row=1"/>
+
+<br/>
+
+<!-- 🔥 ACTIVITY GRAPH -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=rishvinreddy&theme=tokyo-night&hide_border=true&area=true" width="95%"/>
+
+<br/>
+
+<!-- 🌊 FOOTER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:67e8f9,50:38bdf8,100:020617&height=140&section=footer"/>
+
+</div>
+
+
+
+
+
+
+
+
+
+
+
+<div align="center">
+
 <!-- 🌌 BACKGROUND + DEPTH LAYER -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,15:020617,30:0f172a,45:1e293b,60:2563eb,75:38bdf8,90:22d3ee,100:67e8f9&height=380&section=header&text=EROLLA%20RISHVIN%20REDDY&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=⚡%20Architecting%20Intelligent%20Systems%20for%20the%20Future&descAlignY=58&descSize=22&descColor=e2e8f0" width="100%" />
 
