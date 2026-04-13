@@ -1,3 +1,31 @@
+<div align="center" style="font-family: 'Times New Roman', serif;">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,25:0c1527,60:1d4ed8,100:38bdf8&height=380&section=header&text=EROLLA%20RISHVIN%20REDDY&fontSize=72&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=IoT%20%7C%20Backend%20%7C%20Cybersecurity%20Developer&descAlignY=62&descSize=26&descColor=cbd5f5" width="100%" />
+
+<br/>
+
+<h1 style="font-size:48px; margin-bottom:10px;">
+EROLLA RISHVIN REDDY
+</h1>
+
+<p style="font-size:22px; color:#94a3b8; margin-top:0;">
+IoT • Backend • Cybersecurity Developer
+</p>
+
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
 <!-- 🔥 MAIN WRAPPER -->
 <div align="center">
 
