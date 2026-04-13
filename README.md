@@ -1,3 +1,55 @@
+<!-- 🔥 MAIN WRAPPER -->
+<div align="center">
+
+  <!-- 👁️ LIVE METRICS -->
+  <img src="https://komarev.com/ghpvc/?username=rishvinreddy&label=PROFILE%20VIEWS&color=0ea5e9&style=for-the-badge" />
+
+  <br/><br/>
+
+  <!-- ⚡ CONTRIBUTION HEATMAP -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rishvinreddy&theme=tokyonight" width="95%" />
+
+  <br/><br/>
+
+  <!-- 📊 DASHBOARD ROW 1 -->
+  <p>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=rishvinreddy&theme=tokyonight" height="160"/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rishvinreddy&theme=tokyonight" height="160"/>
+  </p>
+
+  <!-- 📊 DASHBOARD ROW 2 -->
+  <p>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rishvinreddy&theme=tokyonight" height="160"/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rishvinreddy&theme=tokyonight&utcOffset=5.5" height="160"/>
+  </p>
+
+  <br/>
+
+  <!-- 🏆 TROPHIES -->
+  <img src="https://github-profile-trophy.vercel.app/?username=rishvinreddy&theme=algolia&no-frame=true&margin-w=15&margin-h=15&row=1&column=6" />
+
+  <br/><br/>
+
+  <!-- 🔥 ACTIVITY GRAPH -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rishvinreddy&theme=tokyo-night&hide_border=true&area=true" width="95%"/>
+
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <div align="center">
 
 <!-- 🌌 ULTRA CINEMATIC HEADER -->
